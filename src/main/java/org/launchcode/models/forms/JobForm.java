@@ -36,6 +36,8 @@ public class JobForm {
     @NotNull
     private int positionTypeId;
 
+    // generated get and set
+
     public int getLocationId() {
         return locationId;
     }
